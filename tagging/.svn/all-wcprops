@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/184/branches/0.3.X/tagging
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/184/branches/0.3.X/tagging/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/173/branches/0.3.X/tagging/models.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/branches/0.3.X/tagging/fields.py
+END
