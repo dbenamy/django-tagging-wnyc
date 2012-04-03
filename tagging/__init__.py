@@ -1,4 +1,4 @@
-VERSION = (0, 3, 1, "final", 0)
+VERSION = (0, 3, 2, "dev", 0)
 
 
 
